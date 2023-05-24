@@ -1,3 +1,17 @@
+Identifying dog breeds can be difficult due to the high similarity between breeds and the
+number of possible classes. In this study, we aim to develop a deep learning model using
+a convolutional neural network (CNN) to classify dog breeds. We used a dataset of over
+20,000 labeled images from 120 distinct breeds. We analyzed the impact of model
+complexity, regularization techniques, and learning rate of our custom CNN model's
+performance. We also explored the use of fine-tuning a pre-trained model like
+ResNet50V2 for classification. Our best-performing model achieved a 66.92% accuracy,
+highlighting the potential of CNNs in dog breed classification.
+
+Report - [Project Report -Predicting Pooches.pdf](https://github.com/zmlmcb/Dog-breed-classifier/files/11549268/Project.Report.-Predicting.Pooches.pdf)
+
+
+
+
 # Predicitng Pooches
 # Dog Breed Classification Project
 
